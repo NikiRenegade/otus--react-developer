@@ -1,19 +1,20 @@
 {
-  "name": "otus--react-developer",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NikiRenegade/otus--react-developer.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NikiRenegade/otus--react-developer/issues"
-  },
-  "homepage": "https://github.com/NikiRenegade/otus--react-developer#readme",
-  "description": ""
+	"name": "otus--react-developer",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node HelloWorld.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NikiRenegade/otus--react-developer.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/NikiRenegade/otus--react-developer/issues"
+	},
+	"homepage": "https://github.com/NikiRenegade/otus--react-developer#readme",
+	"description": ""
 }
